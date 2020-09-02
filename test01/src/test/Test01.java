@@ -1,9 +1,15 @@
 package test;
 
+import java.sql.SQLOutput;
+
 public class Test01 {
     int a = 1;
     int c = 2;
     int d = 5;
-    int zzfds = 15;
-    int zzzxc = 15;
+    int zz = 15;
+
+    //new
+    public static void main(String[] args) {
+        System.out.println("啊啊啊");
+    }
 }
