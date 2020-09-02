@@ -4,4 +4,5 @@ public class Test01 {
     int a = 1;
     int c = 2;
     int d = 5;
+    int zz = 15;
 }
